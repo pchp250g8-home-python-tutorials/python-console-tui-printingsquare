@@ -1,4 +1,4 @@
-PrintingSquare. Python Tutorials. TUI. Curses Library. Strings. Arrays. Console Application. 
+PrintingSquare. Python Tutorials. TUI. Curses Library. Strings. Arrays. Console Application.
 The program does the following:
   1. Loads the Curses library.
   2. Creates a standard terminal size window (80 columns, 25 rows).
