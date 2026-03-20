@@ -7,7 +7,7 @@ scr = curses.initscr()
 curses.curs_set(0)
 scr.clear()
 nLen = len(strLine)
-for i in range(0, nLen - 1):
+for i in range(0, nLen):
     scr.addstr(10, 10 + i, strLine[i] + chr(0x2588))
     scr.refresh() 
     time.sleep(.5) 
