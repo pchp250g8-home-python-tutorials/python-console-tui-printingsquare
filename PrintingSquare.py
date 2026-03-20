@@ -2,7 +2,7 @@
 import curses
 import time
 
-strLine = "Hello,World!!! Python Conio Example!!!"
+strLine = "Hello World!!! Printing Square!!! Press Any Key To Exit!!!"
 scr = curses.initscr()
 curses.curs_set(0)
 scr.clear()
